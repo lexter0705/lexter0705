@@ -1,8 +1,9 @@
 # Hello! 
 
 I am python programmer from Moscow.
-
+<br>
 I won some ML and backend development competitions. Now I'm looking for a job)
+<br>
 This is photo from one competition: 
 <br>
 <br>
