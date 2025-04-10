@@ -2,4 +2,8 @@
 
 I am python programmer from Moscow.
 
-Email: lexter0705@gmail.com
+I won some ML and backend development competitions. Now I'm looking for a job)
+
+This is photo from one competition: 
+
+So don't be shy to write: lexter0705@gmail.com
