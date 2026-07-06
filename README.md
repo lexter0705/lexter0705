@@ -1,13 +1,10 @@
-# Hello! 
+# Who am I?
 
-I am python programmer from Moscow.
+I'm a programmer from Moscow.
+In my short career, I've written two PyPI libraries and won several ML competitions. 
 <br>
-I won some ML and backend development competitions. Now I'm looking for a job)
-<br>
-This is photo from one competition: 
-<br>
-<br>
-<img src="https://github.com/lexter0705/lexter0705/blob/main/photo_2024-05-21_18-48-40.jpg">
+# My team and projects
+<a href="https://github.com/apparser-development"><img src="https://raw.githubusercontent.com/apparser-development/.github/refs/heads/main/profile/logo.svg" alt="" width="70%"/></a>
 <br>
 <br>
-So don't be shy to write: lexter0705@gmail.com
+*So don't be shy to write: lexter0705@gmail.com*
